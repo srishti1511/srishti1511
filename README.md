@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋 I’m Swati Patel
 
-<!--
-**srishti1511/srishti1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computer Science Graduate  
+💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- HTML, CSS, JavaScript
+- React.js
+- Node.js, Express.js
+- MongoDB
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- React Translator App
+- Random String Generator
+- Portfolio Website
+
+(Adding full MERN projects currently 🚀)
+
+### 📫 Contact
+- GitHub: https://github.com/srishti1511
+- Email: patelswati9284@gmail.com
+
+✨ Actively looking for MERN Internship / Junior Developer role
